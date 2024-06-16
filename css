@@ -1,0 +1,11 @@
+#wrapper {
+  height: 100vh;
+}
+
+#sidebar-wrapper {
+  width: 250px;
+}
+
+#page-content-wrapper {
+  flex: 1;
+}
